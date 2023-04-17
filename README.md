@@ -20,6 +20,8 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 -  ISRAHELL ATTACK
 ## Author:
 - Pari Malam
+## Updater:
+- Vip3r_Li0n
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/SurpriseMTFK)
 [![Forum](https://img.shields.io/badge/-Forum-red)](https://dragonforce.io)
