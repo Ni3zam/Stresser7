@@ -1,4 +1,4 @@
-## Stresser7
+## Stresser7![](https://img.shields.io/badge/Version-4.5-brightgreen.svg)
 - Stresser with 7-Layers DoS Attack Tool-KID
 ## HTTP Flood
 - HTTP Flood is typically considered a 7-layer (application layer) DDoS attack,
