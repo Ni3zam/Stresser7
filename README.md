@@ -11,8 +11,10 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 ![Screenshot_2](https://user-images.githubusercontent.com/25004320/231667216-f5ccb466-d121-40c9-9a73-c857103b8b01.png)
 ## Demonstration:
 ![bandicam 2023-04-12 07-48-34-208](https://user-images.githubusercontent.com/25004320/231313048-788b71b6-f399-4306-bde7-85f96d0e24af.gif)
-## Python Version:
+## Minimum Python Version:
 - 3.8
+## Maximum Python Version:
+- 3.10.0
 ## Get start with:
 - pip install -r requirements.txt
 - python cybertroopers.py
@@ -23,5 +25,4 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 ## Updater:
 - Vip3r_Li0n
 ## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/SurpriseMTFK)
 [![Forum](https://img.shields.io/badge/-Forum-red)](https://dragonforce.io)
