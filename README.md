@@ -15,7 +15,7 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 ## Maximum Python Version:
 - 3.10.0
 ## Get start with:
-- git clone https://github.com/Ni3zam/Stresser7
+- git clone https://github.com/Vip3rLi0n/Stresser7
 - cd Stresser7
 - pip install -r requirements.txt
 - python cybertroopers.py
