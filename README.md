@@ -13,14 +13,12 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 ## Demonstration:
 ![bandicam 2023-04-12 07-48-34-208](https://user-images.githubusercontent.com/25004320/231313048-788b71b6-f399-4306-bde7-85f96d0e24af.gif)
 ## Minimum Python Version:
-- 3.8
-## Maximum Python Version:
-- 3.10.0
+- 3.11
 ## Get start with:
 - git clone https://github.com/Vip3rLi0n/Stresser7
 - cd Stresser7
 - pip install -r requirements.txt
-- python cybertroopers.py
+- python stresser7.py
 ## Footprints Notes:
 -  ISRAHELL ATTACK
 ## Author:
