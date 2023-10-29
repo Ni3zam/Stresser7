@@ -2,7 +2,8 @@ requests
 colorama
 PySocks
 socks
+scapy
 pool
 bs4
-scapy
 kamene
+pycryptodome
