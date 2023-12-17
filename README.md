@@ -1,5 +1,6 @@
 # Stresser7 ![](https://img.shields.io/badge/Version-6.0-brightgreen.svg)
 - Stresser with 7-Layers DoS Attack Tool-KID
+- Can only be used for .in or .il domain, or IP Address that is from IL or IN.
 - This is the last version that will be out for now. Any request or issue, feel free to let me know.
 
 ## HTTP Flood
