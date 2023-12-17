@@ -1,4 +1,4 @@
-# Stresser7 ![](https://img.shields.io/badge/Version-4.5-brightgreen.svg)
+# Stresser7 ![](https://img.shields.io/badge/Version-6.0-brightgreen.svg)
 - Stresser with 7-Layers DoS Attack Tool-KID
 - This is the last version that will be out for now. Any request or issue, feel free to let me know.
 
