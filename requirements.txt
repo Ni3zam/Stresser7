@@ -7,6 +7,5 @@ pool
 bs4
 kamene
 pycryptodome
-ipwhois
+whois21
 h2
-httpx
