@@ -8,3 +8,5 @@ bs4
 kamene
 pycryptodome
 ipwhois
+h2
+httpx
