@@ -1,4 +1,4 @@
-# Stresser7 ![](https://img.shields.io/badge/Version-6.0-brightgreen.svg)
+# Stresser7 ![](https://img.shields.io/badge/Version-6.2-brightgreen.svg)
 - Stresser with 7-Layers DoS Attack Tool-KID
 - Can only be used for .in or .il domain, or IP Address that is from IL or IN.
 - This is the last version that will be out for now. Any request or issue, feel free to let me know.
@@ -21,7 +21,7 @@ However, it is possible for an HTTP flood attack to also affect lower layers of 
 - pip install -r requirements.txt
 - python stresser7.py
 ## Footprints Notes:
--  ISRAHELL ATTACK
+-  PALESTINE SHALL BE FREE!
 ## Author:
 - Pari Malam
 ## Updater:
